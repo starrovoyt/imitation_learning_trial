@@ -1,8 +1,7 @@
-# Imitation learning trial project
+# Imitation learning, educational project
 
-Here I understand the approach of imitation learning and try DAgger algorithm with the use of MuJoCo and gym.
+This is an experimental project where I'm exploring imitation learning and experimenting with the DAgger algorithm using MuJoCo and Gym.
 
-
-- imitation_learning.ipynb - main part of code with experiments. 
-- load_policy.py – policy of the agent.
-- tf_util.py – helper for tensorflow library.
+- imitation_learning.ipynb - the main part of the code with experiments. 
+- load_policy.py – agent policy.
+- tf_util.py – tensorflow helper library.
